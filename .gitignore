@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+.venv/
+venv/
+
+# Excel fuente (datos sensibles, no subir)
+*.xlsx
+*.xls
+
+# OS
+.DS_Store
+Thumbs.db
